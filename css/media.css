@@ -1,0 +1,554 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+.navbar-toggler i{
+    color: #fff; 
+    font-size: 25px;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: transparent;
+}
+.navbar-light .navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-brand img {
+    width: 75%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    line-height: 10px;
+    text-align: right;
+}    
+
+#banner {
+    padding-top: 110px;
+    padding-bottom: 100px;
+}    
+
+.banner-item h2 {
+    font-size: 15px;
+}    
+
+.banner-item h1 {
+    font-size: 23px;
+}  
+
+.banner-item p {
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+}    
+
+ .button .btn {
+    padding: 7px 20px;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+ #about {
+    padding-top: 10px;
+}   
+
+p {
+    margin-bottom: 5px;
+}   
+.about-text {
+    padding-top: 30px;
+    padding-bottom: 10px;
+} 
+
+ #portfolio {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}   
+
+.heading h1 {
+    font-size: 25px;
+}
+.heading p {
+    font-size: 15px;
+    line-height: 20px;
+    padding-bottom: 10px;
+}  
+
+.all-buttons button {
+    padding: 0.250rem 10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}    
+
+ .port-btn .btn a {
+    padding: 7px 20px;
+    font-size: 14px;
+}   
+
+#video {
+	padding-top: 85px;
+	padding-bottom: 58px;
+}
+ .vdo h2 {
+    padding-top: 5px;
+    font-size: 17px;
+}   
+
+.vdo p {
+    font-size: 12px;
+    line-height: 17px;
+}
+    
+#counter {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.counter-item {
+    padding-bottom: 10px;
+}  
+    
+#post {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}    
+
+ .footer-item h4 {
+    padding-bottom: 0px;
+}   
+
+.left b {
+    line-height: 0px;
+}   
+.right b {
+    padding-left: 0px;
+    line-height: 0px;
+}   
+
+#copyright {
+    padding-top: 10px;
+    padding-bottom: 10px;;
+}  
+    
+.left b {
+	font-size: 11px;
+	padding-right: 0px;
+} 
+    
+.right b {
+	font-size: 11px;
+	padding-left: 0px;
+}
+ 
+}   
+
+/*// Small device1s (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.navbar-toggler i{
+    color: #fff; 
+    font-size: 30px;
+}
+
+.navbar-nav {
+    background: #111;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: transparent;
+}
+.navbar-light .navbar-toggler:focus {
+    outline: none;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    line-height: 10px;
+    text-align: right;
+} 
+
+#banner {
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.banner-item h2 {
+    font-size: 20px;
+}    
+
+.banner-item h1 {
+    font-size: 35px;
+}  
+
+.banner-item p {
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+}    
+
+.button .btn {
+    padding: 7px 20px;
+    font-size: 17px;
+    margin-top: 13px;
+}
+
+
+#about {
+    padding-top: 25px;
+}
+
+.about-text {
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+    
+.about-text i {
+	font-size: 40px;
+} 
+    
+.about-text p {
+	font-size: 13px;
+	line-height: 18px;
+    text-align: left;
+}
+    
+#portfolio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}   
+
+.heading p {
+	font-size: 14px;
+	line-height: 20px;
+}
+.all-buttons button {
+	padding: .375rem 15px;
+	margin-bottom: 10px;
+    margin-left: 15px;
+}
+    
+.port-btn {
+	margin-top: 5px;
+}
+    
+.port-btn .btn a {
+	font-size: 14px;
+	padding: 7px 20px;
+}
+
+#portfolio {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.port-info h3 {
+    padding-top: 15px;
+	font-size: 18px;
+    padding-left: 20px;
+}
+    
+.port-info p {
+	font-size: 14px;
+	padding-bottom: 20px;
+    padding-left: 20px;
+}
+    
+#video {
+    padding-top: 95px;
+    padding-bottom: 95px;
+} 
+    
+#counter {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+ .vdo h2 {
+    padding-top: 8px;
+    font-size: 22px;
+}  
+
+.vdo p {
+    font-size: 13px;
+    line-height: 22px;
+}
+
+#post {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+    
+.post-img {
+    margin-bottom: 15px;
+}
+    
+.post-info {
+	padding-bottom: 10px;
+}
+.post-info h3 {
+	font-size: 17px;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+ .post-info p {
+	font-size: 12px;
+	padding-left: 10px;
+}   
+    
+.post-info a {
+    padding-bottom: 10px;
+    padding-left: 10px;
+} 
+    
+#footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}  
+    
+.footer-item h4 {
+	padding-bottom: 0px;
+
+}
+
+.left b {
+
+}   
+.right b {
+    padding-left: 0px;
+
+}   
+
+#copyright {
+    padding-top: 10px;
+    padding-bottom: 10px;;
+}  
+    
+.left b {
+	font-size: 11px;
+	padding-right: 0px;
+} 
+    
+.right b {
+	font-size: 11px;
+	padding-left: 0px;
+}
+ 
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+.navbar-toggler i{
+    color: #fff; 
+    font-size: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    line-height: 10px;
+} 
+
+.navbar-expand-md .navbar-nav .nav-link {
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	 line-height: 0px; 
+}
+    
+.navbar-light .navbar-nav .nav-link {
+	font-size: 13px;
+}   
+ 
+#banner {
+	padding-top: 160px;
+	padding-bottom: 160px;
+}   
+
+.banner-item h2 {
+    font-size: 25px;
+}    
+
+.banner-item h1 {
+    font-size: 38px;
+}  
+
+.banner-item p {
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+}    
+
+.button .btn {
+    padding: 10px 23px;
+    font-size: 17px;
+    margin-top: 13px;
+}
+    
+#about {
+    padding-top: 25px;
+}
+
+.about-text {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+    
+.about-text i {
+	font-size: 45px;
+} 
+    
+.about-text p {
+	font-size: 15px;
+	line-height: 18px;
+}
+    
+#portfolio {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}  
+
+.heading p {
+	font-size: 15px;
+	line-height: 20px;
+}
+.all-buttons button {
+	padding: .375rem 15px;
+	margin-bottom: 10px;
+   	margin-left: 15px;
+}
+    
+.port-btn {
+	margin-top: 7px;
+}
+    
+.port-btn .btn a {
+	font-size: 15px;
+	padding: 10px 23px;
+}  
+
+
+.port-info h3 {
+    padding-top: 20px;
+	font-size: 20px;
+    padding-left: 25px;
+}
+    
+.port-info p {
+	font-size: 15px;
+	padding-bottom: 20px;
+   
+    padding-left: 25px;
+}
+    
+#video {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}    
+
+ .vdo h2 {
+    padding-top: 8px;
+    font-size: 25px;
+}  
+
+.vdo p {
+    font-size: 15px;
+    line-height: 22px;
+}
+    
+#counter {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+ 
+#post {
+    padding-top: 30px;
+    padding-bottom: 0px;
+}   
+
+.post-img {
+    margin-bottom: 20px;
+}
+
+ .post-info h3 {
+	font-size: 16px;
+	padding-top: 10px;
+	padding-left: 10px;
+}   
+ 
+.post-info p {;
+	font-size: 13px;
+	padding-left: 10px;
+}   
+    
+.post-info a {
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-left: 10px;
+}  
+
+#footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}  
+.footer-item h4 {
+	padding-bottom: 0px;
+
+}
+
+.left b {
+    line-height: 15px;
+}
+      
+.dibble-img {
+	padding-right: 10px;
+	padding-left: 0px;
+	padding-bottom: 20px;
+}
+
+#copyright {
+    padding-top: 15px;
+    padding-bottom: 15px;;
+}  
+    
+.left b {
+	font-size: 11px;
+	padding-right: 0px;
+} 
+    
+.right b {
+	font-size: 11px;
+	padding-left: 0px;
+}
+    
+}   
+    
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+#counter .row .col-md-4 {
+    max-width: 20%;
+}
+    
+#counter .row .col-md-6 {
+    max-width: 20%;
+}
+    
+}
+
+/* Extra large devices (Big screen, 1200px and up)*/
+@media(min-width:1200px){
+    
+#counter .col-md-4 {
+	max-width: 20%;
+}
+#counter .col-md-6 {
+	max-width: 20%;
+}
+    
+}
+
